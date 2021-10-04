@@ -10,7 +10,6 @@ tag_ol.insertBefore(tag_child2,tag_child1)
 const tag_sec = document.querySelectorAll("section")
 const tag_sec2 = tag_sec[1]
 const tag_sec3 = tag_sec[2].querySelector("div")
-console.log(tag_sec3)
 
 const tag_h2_sec2 = tag_sec[1].querySelector("h2")
 const tag_h2_sec3 = tag_sec[2].querySelector("h2")
